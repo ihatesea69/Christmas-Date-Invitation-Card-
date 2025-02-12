@@ -18,14 +18,14 @@ setInterval(() => {
   }, 500);
   
   // Tạo hiệu ứng gõ chữ
-  const text = `Hey Bé Dương ơi,  
+  const text = `Hey Bé xxx ơi,  
   Tớ nghĩ mãi mới dám viết những dòng này... Cậu đọc kỹ nhé!  
   Noel năm nay tớ muốn làm điều gì đó thật đặc biệt, và... điều đầu tiên tớ nghĩ tới là... cậu.  
   Tớ không biết vì sao, nhưng mỗi lần gặp cậu, tớ luôn thấy vui và hơi hồi hộp nữa.  
   Cậu có biết không? Mỗi khi cậu cười, tớ thấy cả thế giới sáng bừng lên ấy.  
   Nên... tớ muốn hỏi cậu... Noel này, cậu có thể đi chơi cùng tớ không?  
   Chỉ hai đứa mình thôi. Tớ hứa sẽ không làm cậu thất vọng đâu!  
-  Chờ câu trả lời của cậu, Dương nhé. 😊  
+  Chờ câu trả lời của cậu,xxx  nhé. 😊  
   P/s: Nếu cậu đồng ý, tớ sẽ chuẩn bị sẵn bánh và cả quà nữa! 🎁🎄`;
 
   
